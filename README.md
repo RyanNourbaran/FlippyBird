@@ -1,1 +1,1 @@
-"# FlippyBird" 
+Open index.html to play
