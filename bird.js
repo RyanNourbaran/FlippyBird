@@ -24,7 +24,7 @@ function Bird() {
 
 
     this.update = function() {
-        if (frameCount > 100) {
+        if (frameCount > 300) {
                     this.velocity += this.gravity;
                     this.y += this.velocity;
                 }
